@@ -7,12 +7,12 @@
 2 : commencer l'installer 
 
 1/ 
-Vitashell
-Molecule
-Testkit Installer Deluxe
-RetroArch
-SMSplusVita
-(c'est tout pour le moment)
+Vitashell ,
+Molecule , 
+Testkit Installer Deluxe , 
+RetroArch , 
+SMSplusVita , 
+(c'est tout pour le moment)        ,
 
 2/
 l'instalation de VitaNoHax n'est pas encore disponible 
